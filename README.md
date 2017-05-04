@@ -1,6 +1,4 @@
-<<<<<<< HEAD
 Symfony Standard Edition
-========================
 
 Welcome to the Symfony Standard Edition - a fully-functional Symfony
 application that you can use as the skeleton for your new applications.
@@ -68,6 +66,4 @@ Enjoy!
 [11]: https://symfony.com/doc/3.2/logging.html
 [12]: https://symfony.com/doc/3.2/assetic/asset_management.html
 [13]: https://symfony.com/doc/current/bundles/SensioGeneratorBundle/index.html
-=======
-# symfony_jwt_demo
->>>>>>> eb4d0f5a9ba865b8e376a74b7a538e27fc22a09d
+
